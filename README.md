@@ -4,4 +4,4 @@ https://www.kickstarter.com/projects/513736598/python-for-science-and-engineerin
 
 Full explantion will be provided in the upcoming book.
 
-change
+change without checking out master before pull
